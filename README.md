@@ -1,8 +1,16 @@
 # 🚢 Titanic Survival Prediction
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/titanic-survival-prediction?style=social)](https://github.com/yourusername/titanic-survival-prediction/stargazers)
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+  </a>
+  <a href="https://github.com/yourusername/titanic-survival-prediction/stargazers">
+    <img src="https://img.shields.io/github/stars/yourusername/titanic-survival-prediction?style=social" alt="GitHub Stars">
+  </a>
+</p>
 
 ---
 
